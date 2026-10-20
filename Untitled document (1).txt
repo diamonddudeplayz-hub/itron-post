@@ -1,0 +1,55 @@
+﻿Alright finished presentation it was good, prestend it well, some key things, i mean obviously i think that i show enough that the market is mispricing the fundamental side of its arr, but like the md likes to think that the market is more efficient which is fair, there might be a side im not looking at but i mean its clear they cant model its the measurement lag arbitrage esetnially, he also told me potentially look into more data like the pgne thing where they had a treasure trove of data, what edge is there cus data is valuable, next is i gave some details on like why they use these apps its essentially or use itrons software its esnetially savings for them if u think of the ev transformers or the power outages. He also told me to find my thing like and i knew what it was it was my fucking 2 buyer framework, but i do have it dude like he saw my hsit and was like wow its interesting on linkedin hes like an analyst giving his commentary after earnings etc etc, so its good great job, but yeah also potentially look at more operational side liek cost of these meters, etc, etc and whatnot because i know theinvesting side of the business but not so much the operational side which would be important to know too, funny enough wasnt nervous at all tbh i felt good doing it i liked it 
+
+
+
+
+
+
+Setup:
+* Itron: smart meters, grid infrastructure, electric/gas/water utilities
+* ~100M endpoints managed, ~70% NA market share electricity & gas
+* ARR = standard software valuation KPI. Itron started reporting it 6 months ago
+Slide 1:
+* $103 / $4.7B market cap
+* Thesis: priced as hardware, financial profile looks like software
+* Catalyst: Investor Day ~March 2027, gives analysts framework to re-rate
+Slide 2:
+* Reverse SOTP: strip hardware at 1x → $3.4B implied software value
+* $417M ARR → 8.2x implied EV/ARR on 20%+ growth
+* Base $119 (10x current ARR, zero growth), Catalyst $138 (10x on ~$500M fwd ARR)
+* 5 sell-side desks acknowledge transition, none model as software
+* ARR in 10-K for first time FY2025, only 3-4 data points, not yet modelable
+Slide 3:
+* Gross margin 25% Q4 2021 → 41.4% today
+* Not cyclical, structural mix shift to software
+* Mgmt 2024 Investor Day target 36-38%, exceeded by 300bp+ in 2 years
+Slide 4:
+* ARR: $296M Q4 2023 → $417M today, 20%+ growth
+* Driver 1: Resiliency Solutions, newest segment, 2 software acquisitions, AI safety & infrastructure mgmt, 75% GM, 90% recurring, cross-sell into 8,000 customers not started, zero synergies captured
+* Driver 2: coiled spring, 17.5M DI endpoints shipped, 28M apps licensed on 3.8M active endpoints, 1 in 5, bimodal adoption (majority haven't started), Tampa Electric 5 apps/endpoint
+Slide 5:
+* $66/endpoint/year (Outcomes service rev ÷ 3.8M active), $50 conservative floor
+* 1 in 5 → 3 in 5 = $335M incremental ARR, near-zero marginal cost
+* Platform built, endpoints deployed, activation = software push
+* $119 base = zero penetration increase, $138 catalyst = 20% to 30% penetration
+Slide 6:
+* Resiliency cross-sell: 400 customers × $500K = $200M incremental ARR (5% of base)
+* FY2030 ARR $750M at 15% CAGR (below current growth, excludes cross-sell)
+* 10x = $152 (9% CAGR), 12x = $187 (15% CAGR)
+* Excludes buybacks and debt paydown
+Slide 7:
+* Jan: Resiliency integration complete
+* Feb: Q4 earnings (2024 precedent: Investor Day announced on Q4 call, held 12 days later)
+* ~March: Investor Day, long-term ARR targets, cross-sell numbers, margin update
+* Segment-level framework = analyst permission to rebuild models
+Slide 8:
+* ARR growth <15% two quarters → exit review (currently 21%, 6pp buffer)
+* Net debt/EBITDA >5x → exit review (currently 2.3x)
+* Book-to-bill <0.8 + pipeline contraction → exit review (0.93x, record pipeline)
+* Mgmt calls margins cyclical → immediate exit (CFO says structural)
+* None triggered
+Close:
+* $103 = 8.2x implied EV/ARR, 20%+ growth, zero cross-sell, 1 in 5 active, bimodal adoption, suggesting a step function ahead
+* March Investor Day is the catalyst
+* Base $119, catalyst $138, meaningful optionality beyond
+*

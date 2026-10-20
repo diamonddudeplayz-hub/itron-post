@@ -1,0 +1,264 @@
+
+TIKR Terminal
+Itron, Inc. Logo
+ITRI
+Itron, Inc.
+US$83.59
+-US$1.71 (-2.00%)
+28 May 2026 Close
+ Back
+ 
+
+ Highlight keyword within transcript
+Back to top 
+28 April 2026
+Itron, Inc., Q1 2026 Earnings Call, Apr 28, 2026
+
+ Key Takeaways 
+New
+Operator
+
+Good day, and thank you for standing by. Welcome to Itron's First Quarter 2026 Earnings Conference Call. [Operator Instructions] Today's call is being recorded.
+
+I will now hand the conference over to your speaker host, Paul Vincent, Vice President of Investor Relations. Please go ahead.
+
+Paul Vincent
+
+Good morning, and welcome to Itron's First Quarter 2026 Earnings Conference Call. Tom Deitrich, Itron's President and Chief Executive Officer; and Joan Hooper, Senior Vice President and Chief Financial Officer, will review Itron's first quarter results and provide a general business update and outlook. Earlier today, the company issued a press release announcing its results. This release also includes details related to the conference call and webcast replay information. Accompanying today's call is a presentation that is available through the webcast and on our corporate website under the Investor Relations tab. Following prepared remarks, the call will open for questions using the process the operator described.
+
+Before Tom begins, a reminder that our earnings release and financial presentation include non-GAAP financial information that we believe enhances the overall understanding of our current and future performance. Reconciliations of differences between GAAP and non-GAAP financial measures are available in our earnings release and on our Investor Relations website.
+
+We will be making statements during this call that are forward-looking. These statements are based on current expectations and assumptions that are subject to risks and uncertainties. Actual results could differ materially from these expectations because of factors that were presented in today's earnings release and comments made during this conference call as well as those presented in the Risk Factors section of our Form 10-K and other reports and filings with the Securities and Exchange Commission. All company comments, estimates or forward-looking statements are made in a good faith attempt to provide appropriate insight to our current and future operating and financial environment.
+
+The materials discussed today, April 28, 2026, may materially change, and we do not undertake any duty to update any of our forward-looking statements.
+
+Now please turn to Page 4 of our presentation as our CEO, Tom Deitrich, begins his remarks.
+
+Thomas Deitrich
+
+Thank you, Paul. Good morning, everyone, and thank you for joining our call today. Itron had a solid start to the year. Our first quarter results were ahead of expectations due to strong execution from our teams and some first half projects progressing ahead of schedule.
+
+Turning to Slide 4 for the highlights. Revenue of $587 million, adjusted EBITDA of $92 million, non-GAAP earnings per share of $1.49 and free cash flow of $79 million.
+
+Turning to Slide 5. While project timing provided a modest tailwind in Q1 revenue, we anticipate the first half to be consistent with our initial guidance. Overall, the pace of ongoing field deployment of Grid Edge technology is well aligned to our expectations with no material constraints for labor or materials.
+
+The adoption of flexible and intelligent solutions is accelerating, and that is translating into durable compounding growth over time. Our Outcomes segment grew 22% year-over-year. Total company annual recurring revenue at quarter end was $414 million, up 28% due to strong organic growth plus our recently acquired Resiliency Solutions segment. More broadly, the size and scope of the opportunity funnel remains outsized from historical levels, driven by the age out of existing infrastructure and new requirements. Grid modernization is inevitable, and we are confident in the multiyear structural investment to add intelligence to the grid, but also understand the market we serve.
+
+Our customers continue to work in a complex environment, balancing global uncertainty, affordability concerns, resiliency imperatives and growing demand variability. We are confident our product portfolio addresses these disparate needs across electricity, gas and water systems with flexible implementation models that are well aligned to the specific needs of our utility customers.
+
+Turning to Slide 6. Our first quarter bookings were $476 million, bringing the total backlog to $4.4 billion at quarter end, in line with our expectations. The quarter included several notable wins. We advanced a strategic grid visibility program with Duquesne Light Company. This engagement reflects the growing demand for distributed intelligence and Grid Edge Computing as utilities modernize their networks to improve reliability, resilience and operational efficiency. Importantly, this program highlights Itron's abilities to deliver an integrated first-of-its-kind solution that brings together smart devices, software and communication to support next-generation grid operations.
+
+Additionally, an existing customer that is deploying a safety-enhanced meter program has expanded their development of Intelis static gas endpoints. Intelis technology offers numerous safety enhancements, which include automatic and remote shut-off capabilities as well as reliability and efficiency features that benefit the utility and the consumers they serve. More broadly, this activity is a perfect example of the unique value that Itron's multi-commodity platform creates for customers and benefits our shareholders through diversification across electricity, gas and water verticals.
+
+The integration of Resiliency Solutions segment is on track, and the team is already contributing meaningfully. In worker safety, we established a new contract with a major U.S. electricity utility. The customer required a best-in-class system to protect thousands of field workers at the job site, leveraging intelligent workflows and real-time hazard recognition. The digital construction management team extended a contract with a large natural gas pipeline customer, a strong signal of the customer value of deploying our platform. These are only a few examples of the kind of mission-critical problems that Itron is uniquely positioned to solve.
+
+As a result, our backlog profile continues to evolve in quantity and quality. Outcomes and Resiliency Solutions combined now represent 25% of total backlog and that share is growing. The reason we are winning is straightforward. We help customers make one investment dollar do more. Our solutions are designed to create multiple opportunities for value across the useful life, deepening relationships, expanding our installed base and generating durable recurring revenue streams.
+
+With that, I'll turn it over to Joan to walk through the first quarter financials in detail.
+
+Joan Hooper
+
+Thank you, Tom. Please turn to Slide 7 for a summary of consolidated GAAP results. First quarter revenue of $587 million was above our outlook range due to an acceleration of certain first half project deployments. As expected, revenue was down versus last year, primarily due to the timing of large networks projects. Gross margin was 450 basis points higher than last year due to favorable mix and operational efficiencies. GAAP net income of $53 million or $1.18 per diluted share compares to $65 million or $1.42 in the prior year. The decrease was due to higher GAAP operating expenses related to the two recently completed acquisitions as well as lower interest income.
+
+Regarding non-GAAP metrics on Slide 8, adjusted gross margin of 40.7% increased 490 basis points versus Q1 of 2025. Non-GAAP operating income of $84 million and adjusted EBITDA of $92 million, both increased 5% year-over-year. Non-GAAP net income for the quarter was $68 million or $1.49 per diluted share versus $1.52 a year ago. The year-over-year decline was due to lower interest income, partially offset by higher operating income. Free cash flow was $79 million in Q1 versus $67 million a year ago. The increase was primarily due to lower tax payments.
+
+Year-over-year revenue growth by business segment is on Slide 9. Device Solutions revenue decreased 9% on a constant currency basis due to the expected decline in legacy electricity products in EMEA and the timing of projects in North America. Network Solutions revenue decreased 14% on a constant currency basis due to the timing of large deployments. Outcomes revenue increased 20% on a constant currency basis, driven by higher recurring and services revenue. Our new segment, Resiliency Solutions, which includes the Urbint and Locusview acquisitions contributed $16 million of revenue in Q1.
+
+Moving to the non-GAAP year-over-year EPS bridge on Slide 10. Our Q1 non-GAAP EPS of $1.49 per diluted share decreased $0.03 year-over-year. Operating income contributed an increase of $0.05 per share, but this was more than offset by the negative impact of lower interest income at $0.13 per share. Lower tax expense had a positive year-over-year impact of $0.01 per share, and FX, share count and other items had a positive impact of $0.04 per share.
+
+Turning to Slides 11 through 14, I'll review Q1 segment results compared with the prior year. Device Solutions revenue was $124 million with adjusted gross margin of 35.4% and operating margin of 29.7%. Both margin results are segment-level quarterly records. Adjusted gross margin increased 540 basis points year-over-year, and operating margin was up 550 basis points due to favorable mix and operational efficiencies. Network Solutions revenue was $351 million with adjusted gross margin of 40.8% and operating margin of 31.4%. Adjusted gross margin increased 390 basis points year-over-year due to favorable mix and operational efficiencies and operating margin was up 260 basis points. Outcomes revenue was $96 million with adjusted gross margin of 41.7% and operating margin of 23.3%. Adjusted gross margin increased 250 basis points year-over-year due to a higher margin revenue mix and operating margin increased 510 basis points due to higher operating leverage. Resiliency Solutions had revenue of $16 million, adjusted gross margin of 73% and operating margin of 27%.
+
+Turning to Slide 15, and I'll review liquidity and debt at the end of Q1. Total debt was $1.61 billion, and cash and equivalents were $713 million. Our cash balance declined approximately $300 million versus year-end 2025 due to the net impact of the January acquisition of Locusview, the February issuance of $805 million of 0 interest convertible senior notes, the March $460 million repayment of the company's 2021 convertible senior notes, the February share repurchase of $100 million and free cash flow generation of $79 million during the first quarter. As of March 31, net leverage was 2.4x.
+
+Now please turn to Slide 16 for our second quarter outlook. We anticipate Q2 revenue to be within a range of $560 million to $570 million, which at the midpoint is down 7% versus last year. As previously mentioned, Q1 benefited from an acceleration of first half projects. Our current view of the first half of 2026 is consistent with our thinking when we set the annual outlook back in February. We anticipate second quarter non-GAAP EPS to be within the range of $1.25 to $1.35 per diluted share, which at the midpoint is down approximately 8% year-over-year after normalizing for the tax rate and the level of interest income.
+
+Now I'll turn the call back to Tom.
+
+Thomas Deitrich
+
+Thank you, Joan. Utilities today are managing energy and water systems under increasing strain. Those systems were not designed for the complexity created by distributed energy resources, increasing industrial and AI-driven demand, resource scarcity and escalating weather volatility. At the local level, electricity distribution networks are often significantly underutilized and our customers draw an important conclusion while investment in new generation and transmission is essential, the fastest electron available to them is the one they already have.
+
+Itron solutions unlock time to power using the existing capacity by working with the right data and the ability to act on it. Itron serves as the intelligence layer for our customers, delivering multipurpose networks, analytics and applications that give grid operators the visibility to optimize their distribution infrastructure. Industry data suggests utility distribution spending will continue to grow at least through the end of the decade. We believe this represents a durable structural trend and that modernization will benefit consumers while reducing waste across the system.
+
+I am encouraged by our team's strong execution this quarter. The operating environment remains volatile domestically and globally, and that volatility creates risks. We have built a more resilient business and are delivering consistent results through these cross wins. Our focus is unchanged, backlog quality, recurring revenue growth, margin discipline, cash generation and above all, ensuring our customers are successful with every engagement. Itron is well positioned for a multiyear grid build-out that has already begun and is expected to continue for years to come.
+
+Thank you for joining us today. Operator, please open the line for some questions.
+
+Operator
+
+[Operator Instructions] The first question coming from the line of Noah Kaye with Oppenheimer.
+
+Noah Kaye
+
+First, just hoping to get a little bit more color on what kind of drove the acceleration of project timing in 1Q? And then you were very helpful in noting the first half as a whole is kind of consistent with what you'd assumed in February. What -- the guidance had implied in February was a pickup in the back half. So can you just sort of help us kind of think through what might be impacting the step-down in run rate in 2Q? And then what might account for a pickup in the back half of the year?
+
+Joan Hooper
+
+Yes. Let me start, and then Tom if you want to comment. So yes, we did mention in our prepared remarks that Q1 was better than we had guided to because of an acceleration of projects from the first half of the year. It was primarily in the network business, but also a little bit in devices. And so if you take the combination of our Q1 actuals with the, call it, the midpoint of our Q2 guidance, it's actually slightly higher than what we would have expected back in February, slightly higher on revenue and actually higher on gross margin, EBITDA and EPS. So the first half is shaping up as expected.
+
+So obviously, the question in terms of -- it's more back-end loaded, yes, we knew that when we entered the year, we talked about it on last quarter's call, what would drive an uptick in the second half of the year is project deployments primarily in networks. Certainly, outcomes continues to grow. We would expect that same thing for Resiliency Solutions. Devices is roughly flat. So that growth is going to have to happen from networks deployments.
+
+Tom, I don't know if you want to add anything.
+
+Thomas Deitrich
+
+I would add just a bit on the operational side of things. What we saw in Q1 was no constraints when it comes to supply chain. So material was fine, labor was fine, customer deployments were ticking along quite nicely, and that led to some of the overage that you saw in the network space primarily. Turns were at the level that we expected we pointed in. And I think I even commented on this in our previous call that turns what we're expected to be a little bit higher and indeed, they were. So all in all, the market was well aligned to our expectations within the normal push and pull, where some of the network deployments were moving a little bit faster.
+
+Noah Kaye
+
+Very helpful. And then Tom, you mentioned the outsized funnel. I wondered if you could give us a little bit more commentary on the behavior patterns you're seeing now among customers. And I think in particular one question, no -- DOE recently provided a list of Congress of grid projects that seem to be reinstated under the SPARK program. Maybe just talk a little bit about the potential impact from that as you look at the bookings trajectory over the course of the year.
+
+Thomas Deitrich
+
+Sure. So maybe a broad brush view on the market specifically and then jump into the specifics on the SPARK program. I would say that if I look at it on a vertical basis, water in Europe continues to be strong, above the historical levels. I think it's fairly well documented. Water in the U.S. is a little bit slower. That's the smaller segment for us overall. So where our strength is in water continues to perform well. And you see that primarily in the Devices segment, which is, I would say, punching a little bit above its weight, more pushing 120s rather than the 100 to the 110 level where we had sort of anchored expectations.
+
+On the gas side of things, gas in North America is particularly strong. There's more than buybacks the number of endpoints that are in flight at the moment on the gas side. That is much, much higher than what historical levels are. So that absolutely is a very bright spot overall. Electricity strong in Asia Pacific, in line with expectations in North America, a lot of activities that you can see in the press with some of the early movers in the electricity space really coming back out into the marketplace for the activities in, let's call it, back half of '26 to '27, '28 kind of time frame.
+
+Across the board, though, strength in outcomes and resiliency solutions. So Outcomes up 22% year-over-year. ARR up 28% year-over-year. Felt really good about that part of the strategy playing through and working out nicely for us.
+
+Our portfolio really sings to the way the market is operating these days. We have the ability to work with our customers depending on what sort of pressures they may have in the marketplace, whether it's regulatory oriented or whether it is particular resiliency needs. We've got the tools in the toolbox to be able to help them.
+
+On the government funding side of things, you are correct, some time ago, some of those grip, G-R-I-P projects where were put on hold or "canceled". There are still some state attorney channels that are suing over that -- those "cancellations". But by and large, most of the activities are kind of being replaced now with this new DOE program called SPARK which clearly is part of that electricity market view that I talked about just a second ago.
+
+In general, we have not seen any cancellations even because of some of the things or projects that were put on hold. Customers need to do these things. They weren't discretionary. It was only a question of how they would work through all of the things that were going on in the marketplace. So I feel very good about the inevitability of intelligence in the grid, and we're very, very well positioned to benefit over the years to come.
+
+Operator
+
+Our next question coming from the line of Ben Kallo with Baird.
+
+Ben Kallo
+
+Just adding on to Noah's question there. Just as you think about the activity, Tom, I know it's hard to predict, but just -- can you kind of give us like your thoughts about next year and just the original targets that you had laid out at the Analyst Day and just anything that's changed plus or minus since the last time you updated us? And then I have a follow-up.
+
+Thomas Deitrich
+
+Absolutely, yes. I would say that no change from how we commented on things at the -- in our prior earnings call. Still, we are very much ahead of those '27 targets when it comes to things like gross margin, EBITDA, cash flow, EPS revenue probably towards the low end of that range is what we commented before. Nothing has changed in the market that would pull us away from that view. The large opportunities that were part of my color commentary to Noah's question really gives us the view as to what the market looks like. This -- the build-out of the grid itself and infrastructure in general is absolutely structural. It's inevitable. It really will happen over the years ahead, and we're in a position to benefit from it.
+
+Ben Kallo
+
+And following -- zeroing on that 25% of backlog for Outcomes and Resiliency, could you talk maybe how much of that is recurring revenue? Because if I add that up with your current recurring revenue, you got to a big number depending on what you assume, but just what percentage of that 25% is actually recurring revenue versus some of the services part of it?
+
+Thomas Deitrich
+
+Yes. So our Outcomes segment generally runs somewhere between 2/3 to 3.75 recurring revenue that percentage probably drips northward over the years ahead, Resiliency solutions. The vast majority of it is recurring revenue overall. So that gives you a sense of what it looks like. The only caution I would give you is that backlog number that we quote is a multiyear backlog. So it usually plays out over, call it, a 3- to 4-year kind of time frame depending on the mix of projects that are inside of there. But all in all, again, our portion of business, which is recurring revenue continues to grow $414 million at the end of the quarter, up 28% year-over-year, still very much on track for that growth to continue in the quarters ahead.
+
+Joan Hooper
+
+And just one comment, Ben, you may just to clarify, recurring revenue can include services revenue as well. It's not just software.
+
+Ben Kallo
+
+Right. Okay. Got it. And last thing, just on the acquisition front, just because of multiple -- especially software-type companies changing, going down. How do you guys think about your capital allocation and then just being acquisitive here?
+
+Joan Hooper
+
+Yes. I would say our first priority in '26 is the successful integration of Urbint and Locusview. Things are on track, but we certainly have some additional to integrate systems and things of that nature. That would be our first priority. We will opportunistically look at other things that come our way. But we're not actively going to seek something to buy in '26. We do feel good about our balance sheet and our ability to act on something if it comes along.
+
+Operator
+
+Next question coming from the line of Martin Malloy with Johnson Rice & Company.
+
+Martin Malloy
+
+First question was on the recent acquisitions, Urbint and Locusview. And if you could maybe give us some perspective on progress in terms of revenue synergies with your wide customer platform being able to sell through some of those services, any anecdotal evidence about how that's going would be helpful.
+
+Joan Hooper
+
+Yes. I would say that the results to date have not really been any synergies per se. So what you're seeing in our resiliency solutions is the businesses we bought from Urbint and Locusview. Certainly, over time, we would expect the ability to do that. But we're really trying to ensure in these early days that we're not getting in the way of them running their business. And so we haven't spent a lot of time trying to build synergies. We want to get all the integration and the plumbing in place before we start doing that. So everything you saw in Resiliency solutions is kind of the businesses we bought with no contribution from Itron.
+
+Martin Malloy
+
+Okay. And then just with your commentary about pipeline and confidence in the customer need for your solutions. Could you talk about book-to-bill and when that might trend back over one?
+
+Thomas Deitrich
+
+Yes. The pipeline is at or very near all-time records. That buildup of pipeline we saw over let's say, the last year, 18 months and no signs that anything is coming off the boil there. I feel very good about the pipeline, the opportunities in the portfolio in terms of where we are well positioned. Bookings in the networking space are inherently a bit lumpy. They do move around quarter-to-quarter depending on size of individual projects. Remember that when you do a large project, it's generally a 3- to 4-year kind of thing. So it does yield a certain lumpiness to it. The Outcomes resiliency solution, that's a bit more normalized, the same with devices itself. So still feel great about where we are portfolio-wise, and we'll look to capitalize on the inevitable growth in the marketplace in the quarters ahead.
+
+Operator
+
+Our next question coming from the line of Scott Graham with Seaport Research Partners.
+
+Scott Graham
+
+I wanted to talk about -- I know you don't update your full year guide until the second quarter. But I guess, obviously, we have the timing issue with respect to how things just work in your business. T&D spending is expected to be up double digit this year and your organic guidance is sort of like minus 4% to flat, which implies an increase and uptick in the second half of the year. How are you feeling about that uptick right now, Tom? I know your pipeline of opportunities is increasing, but that doesn't necessarily translate to the second half of this year. I'm just wondering how you feel about the second half? Is it possible that, that could -- second half sales could be down given the book -- the TTM book-to-bill being below 0.9. Maybe any color on that would be helpful.
+
+Thomas Deitrich
+
+Yes. I would say that we expected the year to be back half loaded. That was part of the initial guidance. First half, as Joan commented earlier, in line, I guess, slightly better than where we set the view as to what we had. So nothing has changed in the marketplace at all. Second half guidance definitely implies an uptick in the rate of network deployments. You saw even in the first quarter how that can happen pretty quickly, and we're well positioned to be able to continue to do that. We think we've got supply chain flexibility and labor flexibility to be able to go make that happen. So we will support our customers overall. But I think first half ahead of expectations is already a pretty good place for us to anchor our view for the year.
+
+Scott Graham
+
+Okay. That makes sense. The second -- staying on the second half, I just want to make sure I understand what is going on with sort of the backlog and how purchase orders being written against that backlog are sort of shaping the second half? In other words, last couple of quarters, you talked about how you would have a booking in the backlog and you would only be writing a smaller purchase order because the utility was focused on high bang for the buck. I don't need to focus on something 5 years from now, this sort of thing. What type of risk is inherent in that in your thinking that the second half sales will be up? What is the risk to that relative to that chopping up of the purchase orders?
+
+Thomas Deitrich
+
+Sure. If I'm understanding and following your question, I would say that there's multiple things to think about there. We commented earlier that we expect the turns business to be higher, and that's what we we'll continue to expect. But really, the needle number is network deployment for the second half of the year. In general, there's backlog there. It just needs to be converted, and that is based on the timing of deployments and that very much is something that we work with our customers on an ongoing basis.
+
+So same answer as sort of what I commented on earlier. You can see how these things tend to move through the pipe quicker. You saw that already in our first quarter results when projects start to go well that everyone gains confidence and you can accelerate the deployments overall. So the table is set for it to happen. We'll work with our customers to make sure we continue to support our portion of the program.
+
+Operator
+
+Our next question coming from the line of, Bobby Zolper with Raymond James.
+
+Robert Zolper
+
+I was wondering if you talk about the definitional differences between RPO and backlog?
+
+Joan Hooper
+
+Sure. So RPO is a portion of our revenue footnotes in our 10-Qs and 10-Ks. It starts with the total backlog that we report, and it backs off contracts that have termination for convenience clause. So often, the termination for convenience is governed by regulatory bodies, meaning the contract has to be structured that way. So it's a function of the structure of the contract and therefore, at any given quarter, the mix of the contracts in backlog will dictate how much is backed out to get what we call a net 606 backlog, which I think you referred to as the remaining performance obligations. Importantly, we do not use that to forecast revenue. We do use our full backlog because those contracts while technically, some may be cancelable, nobody ever canceled. So if you looked at our historical backlog, you haven't seen big adjustments to the backlog for cancellation. So it really is a function of the 606 literature on revenue, and it affects our 606 revenue models, et cetera, but does not impact how we look at revenue flowing into the P&L. So we use the gross backlog, which is also in that footnote.
+
+Robert Zolper
+
+Okay. Understood. I appreciate it. And then on the gross margin front, is there a good way to handicap? What I think you've been calling out customer mix benefits for a couple of quarters, like what the customer mix benefit is in gross margins versus what the, I guess, ongoing recurring gross margin of the business would be?
+
+Thomas Deitrich
+
+Sure. So what you saw was the last of some of that pre-inflation run-up backlog rolling out of our total backlog. Recall a couple of years ago, inflation spiked and we had some contracts that were priced pre-inflation with limited flexibility on pricing. That stuff has now fully played through, and that certainly has helped that the margin profile as we knew it would. All of the self-help that we've done over the years with factory consolidation and portfolio pruning, obviously, showing through and really proud of how the team has handled the demand levels that we've seen in terms of managing cost structure and making sure that we had material in place to fulfill things. So really good operational efficiencies there.
+
+So what you saw in gross margin in Q1 was obviously a bit ahead of expectations based on some really good execution. I think that where we anchored our gross margin targets from our '27 targets, the devices business will be materially have, the networks business maybe towards the upper end of that range and outcomes. It will depend on the mix as we scale up that business. Resiliency Solutions. Clearly, it's a strong gross margin. And as that business scales, it will pull the entire company average upward.
+
+Robert Zolper
+
+I appreciate it. If I could just ask a clarifying question on one of the comments you just made on the devices' gross margin. When you say it's ahead, does that just mean it's better than your original expectations? Or should the assumption be that goes back to what the previous kind of long-term target was?
+
+Thomas Deitrich
+
+Good clarification. I'd make sure I'm clear. It is ahead of those '27 targets, and we believe it stays at roughly the level that it is at now. So I think that number that you saw the last couple of quarters is more the level that, that business can operate. There can be quarter-to-quarter variation, but I think you're in the right ZIP code.
+
+Operator
+
+A question just came in coming from the line of Joseph Osha with Guggenheim Partners.
+
+Joseph Osha
+
+Just to follow up a bit on the previous question as you just pointed out, Tom, Resiliency is gross margin accretive. It's a high-growth business, it's kind of growing into that operating cost footprint. I assume there's a lot of R&D there. Can you give us maybe some sense as to when resiliency might be getting closer to the corporate average at the operating margin level?
+
+Joan Hooper
+
+Yes, I can try to answer that, not specific on numbers, but if you go back and look at what I commented on the February call, we indicated that Resiliency Solutions was immediately accretive to Itron's revenue growth, gross margins and EBITDA dilutive to 2026 EPS due to less interest income. But on an operational basis, accretive in '26. And by the time we're into '27 completely accretive on an EPS level. So don't have a specific answer on operating income, but they're progressing nicely. What drags them down operationally today is just a higher OpEx structure, which they'll grow into. So we're really looking to encourage them to continue spending R&D and building out their platforms.
+
+Joseph Osha
+
+But would it be fair to say stipulating that obviously, everything you're saying is reasonable that simply at the percentage level, it's going to take them a while to kind of grow into that high R&D budget, even though it is accretive as you point out?
+
+Joan Hooper
+
+Yes. Again, I think over time, we'll look for synergies in R&D across all the segments. And so it's hard to give us precise answer in terms of when does our R&D budget go down, and therefore, their operating income percent go up. But certainly, we expect them to scale, and we believe it was two attractive acquisitions that we'll execute on according.
+
+Operator
+
+And I'm showing no further questions. I will now turn the call back over to Mr. Tom Deitrich for any closing remarks.
+
+Thomas Deitrich
+
+Thank you, Olivia. Thank you, everyone, for joining our call today. We look forward to updating you again next quarter.
+
+Operator
+
+This concludes today's conference call. Thank you for your participation, and you may now disconnect.
+
+Active Watchlist: First Watchlist
+© 2019 - 2026, TIKR Inc.
+Terms
+Privacy

@@ -1,0 +1,353 @@
+
+
+LSEG StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Q2 2026 Itron Inc Earnings Call
+July 28, 2026 / 2:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Paul Vincent
+   Itron Inc - Vice President, Investor Relations
+ * Thomas Deitrich
+   Itron Inc - President, Chief Executive Officer, Director
+ * Joan Hooper
+   Itron Inc - Chief Financial Officer, Senior Vice President
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Noah Kaye
+   Oppenheimer & Co Inc - Analyst
+ * Ben Kallo
+   Robert W. Baird & Co Inc - Analyst
+ * Chip Moore
+   Roth Capital Partners LLC - Analyst
+ * Jeffrey Osborne
+   Cowen and Company LLC - Analyst
+ * Marty Malloy
+   Johnson Rice - Analyst
+ * Sean Milligan
+   Needham & Company LLC - Equity Analyst
+ * Scott Graham
+   Seaport Research Partners - Analyst
+ * Bobby Zolper
+   Raymond James - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to Itron's second quarter 2026 earnings conference call. (Operator Instructions) Today's conference is being recorded.
+I will now hand the conference over to your speaker host, Paul Vincent, Vice President of Investor Relations. Please go ahead.
+--------------------------------------------------------------------------------
+Paul Vincent, Itron Inc - Vice President, Investor Relations    [2]
+--------------------------------------------------------------------------------
+Good morning, and welcome to Itron's second quarter 2026 earnings conference call. Tom Deitrich, Itron's President and Chief Executive Officer; and Joan Hooper, Senior Vice President and Chief Financial Officer, will review Itron's second quarter results and provide a general business update and outlook. Earlier today, the company issued a press release announcing its results. This release also includes details related to the conference call and webcast replay information. Accompanying today's call is a presentation that is available through the webcast and on our corporate website under the Investor Relations tab.
+Following prepared remarks, the call will open for questions using the process the operator described. Before Tom begins a reminder that our earnings release and financial presentation include non-GAAP financial information that we believe enhances the overall understanding of our current and future performance.
+Reconciliations of differences between GAAP and non-GAAP financial measures are available in our earnings release and on our Investor Relations website. We will be making statements during this call that are forward-looking. These statements are based on current expectations and assumptions that are subject to risks and uncertainties.
+Actual results could differ materially from these expectations because of factors that were presented in today's earnings release and comments made during this conference call as well as those presented in the Risk Factors section of our Form 10-K and other reports and filings with the Securities and Exchange Commission. All company comments, estimates or forward-looking statements are made in a good faith attempt to provide appropriate insight to our current and future operating and financial environment.
+Materials discussed today, July 28, 2026 may materially change, and we do not undertake any duty to update any of our forward-looking statements.
+Now please turn to Page 4 of our presentation as our CEO, Tom Deitrich, begins his remarks.
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+Good morning, everyone, and thank you for joining us today. Itron delivered a high-quality second quarter, record gross margin, strong free cash flow and earnings well ahead of our expectations on in-line revenue. That combination is a story of the quarter. The operating model we have built now delivers structurally better earnings power.
+Turning to slide 4 for the highlights. Revenue of $563 million annual recurring revenue of $417 million, adjusted EBITDA of $97 million, non-GAAP earnings per share of $1.59 and free cash flow of $81 million.
+Turning to slide 5. I want to put the quarter in the context of the market environment. Itron is a different company today than in prior cycles. A meaningful portion of our business is built around large multiyear utility programs so deployment timing.
+What has changed is our ability through strong, we delivered low record gross margin on lower revenue, driven by better mix strong execution and the operational efficiency measures our team has embedded across the business. Not every quarter will set a record, but the improvements behind this one are structural, and we believe here to stay. The long-term infrastructure build-out across electricity, gas and water systems is durable and in our view, inevitable.
+Utilities are managing systems under a real strain, affordability pressures rising reliability and resiliency requirements and new demand patterns, including industrial load growth and AI-driven power demand. Layer on distributed energy resources and weather volatility and the operating challenge compounds. These pressures are not temporary. They are durable, and they are pushing utilities towards solutions that provide better visibility, more automation, and more intelligence at the edge of the network.
+In electricity, we continue to see strong demand for non-wires alternatives time to power solutions and resiliency applications. The common thread customers want to do more with the infrastructure they already have, unlocking the capacity embedded in their distribution systems, reducing waste and deferring or optimizing capital infrastructure upgrades. These are the exact problems our solutions are built to solve. The gas opportunity remains well above historical norms with customers focused on safety, system modernization and operational efficiency.
+In water, particularly in Europe, demand remains positive for solutions that address scarcity and improve network performance. The regulatory environment remains multifaceted, mirroring our customers' reality, but it is constructive affordability, reliability and resiliency are front and center for regulators, just as they are for utilities, and that alignment reinforces the demand for exactly the solutions Itron provides. Regulatory calendars shape when programs move forward rarely whether they move at all.
+Turning to slide 6. Second quarter bookings were $550 million, in line with our expectations, and the total backlog stood at $4.4 billion at quarter end. Large individual customer decisions are generally tied to regulatory processes. So project-based bookings will always be uneven quarter-to-quarter. What matters is the pipeline behind them.
+it continues to grow with rich opportunity set heading into the back half of this year into 2027 and beyond. Noteworthy wins in the quarter illustrate that demand. We are pleased to support 1789 LUX Partners and several municipalities as they deploy our Platform as a Service offering to improve operational performance and reduce the total cost of delivering electricity gas and water services. These programs demonstrate that our technology is expanding its reach and gaining market share within the mid-market utility segment.
+Los Angeles Department of Water and Power, LADWP is expanding its use of Itron's platform and services, deploying our operations management solution to increase the pace and scale of its deployment. Additionally, Sacramento Municipal Utility District for SMUD, will expand its deployment of our Riva solution, increasing the capability of the platform and the reach of distributed intelligence.
+The pattern is clear, investor-owned utilities and more recently, municipalities and public power customers are selecting our platform, both where Itron is the incumbent and in head-to-head competition. Our wins also reflect an evolution in how utilities modernize, prior generations of technology were rolled out almost entirely as big bang replacements. Today, utilities choose between that full-scale approach and continuous focused programs that address affordability, build capability and reduce risk. Both paths lead to Itron. And the continuous model adds a steady extension of the installed base and recurring revenue in parallel with larger program awards.
+Customers choose Itron because our platform solves multiple challenges we deliver networks, software, analytics and applications, an intelligence layer that creates operational visibility and enables better decisions across electricity, gas and water systems. That platform approach matters. It lets customers start with a defined need and expand value over time, and it strengthens Itron's business model by deepening customer relationships, growing our base and increasing the contribution from software, services and recurring revenue.
+You can see the model working across our second quarter results. Outcomes again delivered strong year-over-year growth and annual recurring revenue grew by approximately 21% year-over-year clear evidence of the continued adoption of Itron's higher-value offerings and the durability we are building into the revenue base.
+Turning to operations. The environment rewards discipline. Our supply chain is steady across labor and materials. We are proactively managing pockets of tightness, memory pricing, in particular, and importantly, we are not seeing broad labor or material constraints that would change our view of deployment activity. Integration of Resiliency Solutions segment is tracking to plan, these acquisitions expand our ability to solve mission-critical problems for utilities and deepen the intelligence we bring to the increasingly complex networks.
+Overall, the second quarter reflects the operating model we have been building more resilient with greater earnings leverage on the outlook, we are narrowing our full year range while raising the earnings outlook on the strength of our operating execution.
+With that, I turn the call over to Joan to walk through the second quarter financials and the outlook in more detail.
+--------------------------------------------------------------------------------
+Joan Hooper, Itron Inc - Chief Financial Officer, Senior Vice President    [4]
+--------------------------------------------------------------------------------
+Thank you, Tom. Please turn to slide 7 for a summary of consolidated GAAP results. Second quarter revenue of $563 million was within the range of the outlook we provided on our last call. As expected, revenue was down from last year due to the timing of project deployments in Networked Solutions, but was partially offset by continued growth in outcomes. Gross margin of 41% was 410 basis points higher than last year due to favorable mix, operational efficiencies and continued cost discipline.
+GAAP net income of $53 million or $1.19 per diluted share compared to $68 million or $1.47 in the prior year. The decrease was due to lower interest income and a higher effective tax rate this year.
+Moving to non-GAAP metrics on slide 8. Adjusted gross margin of 41.4% increased 460 basis points year-over-year and is a new quarterly record Itron. Non-GAAP operating income of $89 million and adjusted EBITDA of $97 million each increased 8% year-over-year. Non-GAAP net income for the quarter was $71 million or $1.59 per diluted share versus $1.62 a year ago. The year-over-year decline was due to lower interest income and a higher tax rate, partially offset by higher non-GAAP operating income.
+Free cash flow was $81 million in Q2 versus $91 million a year ago. The decrease was primarily due to higher tax payments and lower interest income, partially offset by the timing of working capital.
+Year-over-year revenue growth by business segment is on slide 9. Device Solutions revenue decreased 3% on a constant currency basis due to lower electricity product sales. Networked Solutions revenue decreased by 17% due to project deployment timing. Outcomes revenue increased 13%, driven by higher services revenue. Our new segment, resiliency solutions, which includes the Urbint and Locusview acquisitions contributed approximately $16 million of revenue in the second quarter.
+Moving to the non-GAAP year-over-year EPS bridge on slide 10. Our Q2 non-GAAP earnings per share of $1.59 per diluted share decreased $0.03 year-over-year. Operating income contributed an increase of $0.15 per share, but this was offset by lower interest income of $0.13 per share and a higher tax expense of $0.12 per share. Share count and other had a positive impact of $0.07 per share.
+Turning to slides 11 through 14, I'll review the Q2 segment results compared with the prior year. Device Solutions revenue was $111 million with adjusted gross margin of 34.8% and operating margin of 28.3%. Adjusted gross margin increased 500 basis points year-over-year, and operating margin was up 570 basis points due to favorable mix and operational efficiencies. Networked Solutions revenue was $339 million, with adjusted gross margin of 42.8% and operating margin of 33%. Adjusted gross margin increased 430 basis points year-over-year due to favorable mix and operational efficiencies and operating margin was up 340 basis points.
+Outcomes revenue was $96 million with adjusted gross margin of 38.8% and operating margin of 21.3%. Adjusted gross margin increased 30 basis points year-over-year due to a higher margin revenue mix and operating margin increased 290 basis points due to higher operating leverage. Resiliency Solutions had revenue of $16 million, adjusted gross margin of 75% and operating margin of 28%.
+Turning to slide 15, I'll review debt and liquidity at the end of the second quarter. Total debt was $1.6 billion, and our net leverage was 2.3 times. Our liquidity position was $1.5 billion at the end of Q2, comprised of cash and equivalents of $745 million and $707 million available for borrowing under our revolving line of credit. During the quarter, we purchased $52 million or 644,000 Itron shares on the open market under our share repurchase authorization.
+Now please turn to slide 16 for our third quarter outlook. We anticipate Q3 revenue to be within a range of $590 million to $600 million, which at the midpoint is up 2% versus last year and 6% sequentially. We anticipate third quarter non-GAAP earnings per share to be within a range of $1.50 to $1.60 per diluted share, up 1% year-over-year at the midpoint.
+Finally, please turn to slide 17 for our updated full year outlook. The full year revenue outlook is similar to what we provided back in February, but we are now able to narrow the range to $2.37 billion to $2.41 billion, which at the midpoint is up 1% versus 2025.
+Importantly, the implied second half year-over-year and the sequential growth is close to 8%. As we previously discussed, we expected 2026 revenue to be more back-end loaded than prior years. The expected full year non-GAAP earnings per share has been revised upwards to a range of $6.30 to $6.50 per share.
+At the midpoint, this represents a 7% increase from the February 2026 full year outlook. While the full year EPS is projected to be below 2025 on an as-reported basis, if you normalize for the tax rate and the level of interest income, the midpoint of the new EPS range is approximately 7% higher than 2025.
+We are proud of the structural changes we have made to the business to improve our resiliency as evidenced by expanding margins and profitability despite a recent slowdown in revenue growth.
+Now I'll turn the call back to Tom.
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+Thank you, Joan. Before we open the line for questions, let me come back to the larger point. Our strategic position has improved, and the environment continues to move towards us. Utilities are being asked to manage more complexity, higher reliability expectations, greater affordability pressure and rising demand variability, all at the same time. Meeting that challenge requires more intelligence more automation and better operational visibility across the network.
+Itron is the intelligence layer of the distribution grid, helping customers unlock capacity, improve reliability, enhance safety, reduce waste and get more out of the infrastructure they already have. That value proposition is becoming more important, not less.
+Quarterly timing may move the underlying need will not. What this quarter demonstrated is that Itron performs through that movement, earnings well ahead, record gross margin, strong free cash flow and continued growth in outcomes and recurring revenue. Our priorities are clear execute for our customers, grow recurring revenue, protect backlog quality and deliver durable earnings and cash flow over time.
+Thank you for joining us today. Operator, please open the line for questions.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+Noah Kaye, Oppenheimer.
+--------------------------------------------------------------------------------
+Noah Kaye, Oppenheimer & Co Inc - Analyst    [2]
+--------------------------------------------------------------------------------
+Hey, good morning all, and thanks for taking the questions. Maybe if we could just start asking to take us through some of the moving pieces of the second half. As you mentioned, Joe, there's a sequential step-up in revenue. Where are we going to see that within the business? What drives that sequential step up? And then what are the implications of mix for margin trends in the back half?
+--------------------------------------------------------------------------------
+Joan Hooper, Itron Inc - Chief Financial Officer, Senior Vice President    [3]
+--------------------------------------------------------------------------------
+Yeah, I would say it's the story we've now had for the last several quarters. It's really dependent on Networked Solutions, increased deployment. So we've been really lucky and fortunate and have a lot of outcomes growth for the last couple of years, year over year. We expect that to continue, but the real driver is going to be an uptick in Networked Solutions from the first half to the second-half.
+Margins for the year, I think we'll still be close to 40%, but we were a tad above that in second quarter. And in the first quarter. So maybe it ticks down a little bit, and it's really just a function of mix, but in total, very close to, call it, 40% for the year.
+--------------------------------------------------------------------------------
+Noah Kaye, Oppenheimer & Co Inc - Analyst    [4]
+--------------------------------------------------------------------------------
+Okay. And then inflection in revenues and networks, can you just give us some color on what drives that? And I know timing of customer deliveries can be very variable, but just at a high level, what is sort of driving the sequential improvement?
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+Yeah, from the underlying need, it's really three things that drive most of it, it's grid expansion and whether that is electricity or gas, it's investment in resiliency and it's investment in grid efficiency, so things like time to power, non-wires alternatives.
+Virtual power plants, things of that sort really are driving the growth and that applies to tactically revenue-wise, but also long-term in terms of the pipeline growth, that's what we see in that portion of the future as well.
+--------------------------------------------------------------------------------
+Noah Kaye, Oppenheimer & Co Inc - Analyst    [6]
+--------------------------------------------------------------------------------
+Maybe just one quick follow-up. Tom, I think you made the point well and the results reflect that this quarter that there's been structural improvements in the business looking at earnings and cash flow generation in the cycle. But I do want to ask you about some of the elements of demand that seem to be inflecting positively here.
+We don't always talk about the big game hunting for some of these larger awards, but when we look at some of the. Developments in California and Illinois and some other states, there's certainly some very encouraging demand signals we look at. So I'm just curious to follow-up on your comments in the prepared remarks, how you can see the RFP and potential bookings environment out over the next coming few quarters, say?
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [7]
+--------------------------------------------------------------------------------
+Yeah, Let me start with what you saw in the second quarter results, and then I'll fast forward the movie from there. But in the second quarter, you saw a number of things. You see the idea of grid edge intelligence moving into the mid market. So some of the named wins that I talked about in the quarter really are in that mid-market space.
+So it's no longer the early adopters only or the big IOUs that are going down the path of improving the efficiency of improving the agility of the assets that they have. So that was a positive development. We knew it would come, but really starting to move into that mid-market for the actual win rates cooking over and not in concept any longer.
+If you look forward, the pipeline just absolutely continues to grow. It is continuing at record levels. We saw that really start to grow over the last 18 months. We finished last year at a record high, and it's only grown from there. It is the same basic elements, grid expansion, electricity and in gas, it's resiliency, it's efficiency that really is part of what is fueling that pipeline growth.
+What I just need to make sure we're clear on is the bookings timing. We are very disciplined about it. We won't put it into backlog until we have regulatory approval, that can cause a little bit of jitter but ultimately, it very much what happens at the end of the day. These things that are utilities are up against really our durable macro trends, and it shows a good amount of growth capability for us in the years ahead.
+--------------------------------------------------------------------------------
+Noah Kaye, Oppenheimer & Co Inc - Analyst    [8]
+--------------------------------------------------------------------------------
+All right, good stuff. Thanks for taking the questions.
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [9]
+--------------------------------------------------------------------------------
+Thanks, Noah.
+--------------------------------------------------------------------------------
+Operator,     [10]
+--------------------------------------------------------------------------------
+Ben Kallo, Baird.
+--------------------------------------------------------------------------------
+Ben Kallo, Robert W. Baird & Co Inc - Analyst    [11]
+--------------------------------------------------------------------------------
+Hey, guys, thanks for taking the question. I think there's been a narrative that the utilities can have their hands full for right wrong and maybe you can tell us if it's wrong have their handful of generation and data center load growth. And so I think the products and technology that Itron provides gets the back burner and there's not really room for them in the stack.
+Could you just maybe talk address that a bit and then just talking in the past, there's been some regional differences, whether it's because of structure funding or others in what you're seeing as far as demand. Could you just talk to if that's changed or if that's still something that you're seeing in the marketplace?
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [12]
+--------------------------------------------------------------------------------
+Sure. I would say that the observation that generation and transmission investment is at a historic levels, clearly is valid. The country is going through a renaissance a rapid amount of demand growth. So utilities have to keep up with that. But where I think that narrative really falls apart the extension to say distribution capital is being crowded out of that investment is empirically untrue.
+Distribution CapEx levels continue to grow. That was even acknowledged at the NAREIT conference just a couple of weeks ago. The regulators are talking about it. You got to remember that two-third of utilities are distribution only. So it's not even a rational trade to consider for two-third of the market overall.
+And all of that generation and transmission just provides loads that eventually lands on top of distribution systems that were never meant to handle it. So investment in the distribution grid needs to happen as well. The other narrative that I've heard just unpack it one step further is all of the behind the generation behind the meter rather generation that's being built and being planned right now if you really look under the covers there, a reasonable portion of that meaningful portion actually is planned to move back in front of the meters over years, it's sort of a transitionary period.
+So all roads kind of leads to the fact that distribution spend will continue to be healthy and continue to be positive in a capital-constrained affordability pressure environment, the cheapest capacity is really that electron that they already have and making that distribution grid more effective is where we specialize and where a lot of the investments we've made over the last couple of years really shines through.
+That's what underpins that pipeline growth. We're not seeing any cancellation and I remain firm in the fact that the environment continues to move in our direction.
+Relative to your second question then on what does the market look like? I see good opportunities pipeline-wise across the US from the large IOUs on the West Coast through the southern rim of the United States and into the Southeast where there is just a tremendous amount of demand growth the need for efficiency improvements in the Mid-Atlantic and the PJM territory is well documented, and that continues to be strong as well as in the Midwest. Gas is outshining at the moment in terms of opportunity there is there is an enormous amount of refresh based on aging assets and the emergence of new technology and the new dynamic, which I highlighted in an earlier question, but also in prepared remarks of the mid-market starting to move.
+And that's all what you see combined so I don't know that I would call out any particular region or vertical or a section of the market that is necessarily weak in the U.S. probably water is the weakest of the vertical a smaller piece of our business. But certainly, the water market in Europe continues to be alive and well and very constructive for us. So I'll pause there. I know I said a lot, but hopefully, that unpacks the situation for you.
+--------------------------------------------------------------------------------
+Ben Kallo, Robert W. Baird & Co Inc - Analyst    [13]
+--------------------------------------------------------------------------------
+Maybe if I can just jump in, please, just on the gas refresh. Could you just talk to us because I think it's important and it doesn't get talked about a lot, but just kind of cadence and then the sizing of that, please?
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [14]
+--------------------------------------------------------------------------------
+Certainly, the amount of gas distribution refresh that is on the market for bid now is well above historic norms. No matter how you look at it, it's multiples above what has traditionally been the case. Why that is that is that it's a combination of aging assets and new technology that really jump starts what you can do from a safety perspective, integrated shutoff integrated and automated methane sensing really are things that are very critical from a safety perspective and garner a lot of interest.
+I would suspect those bookings probably play through in the next year or two. But I do believe that you'll see an outsized gas growth in the 3- to 5-year time horizon given our large market share there, I think it's a good signal for us a pocket of opportunity in the years ahead.
+--------------------------------------------------------------------------------
+Operator,     [15]
+--------------------------------------------------------------------------------
+Chip Moore, ROTH Capital Partners.
+--------------------------------------------------------------------------------
+Chip Moore, Roth Capital Partners LLC - Analyst    [16]
+--------------------------------------------------------------------------------
+Tom, maybe I wanted to follow up on your commentary around distribution CapEx. Just are you seeing examples out there where utilities are using Grid Edge in lieu of larger infrastructure? And is there a way to help frame out how that cost compares versus new generation or other alternatives? And then what are the trends you're seeing in rate cases? Is this a case where some of the pushback on electricity prices could accelerate some of that?
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [17]
+--------------------------------------------------------------------------------
+Sure. I'll give you a couple of examples that I think are particularly interesting on how you can use grid edge intelligence to improve performance in the near term, maybe defer some CapEx an example from a large IOU on the West Coast, I think $4 million, $5 million endpoint kind of customer, but the idea of being able to manage EV charging in a coordinated way so that you can live within the circuit budget for the utility or the 10.5 panel budget for the customer, you're talking about more than $1 billion of transformer upsizing that you can defer or avoid completely. That's a very clear example of how you can bring grid edge intelligence to bear.
+Another from, call it, 1 million endpoint customer in the southeastern part of the United States, but through deploying distributed intelligence. They reduced their frequency and duration of outages. Duration was down 12% to 15%. The frequency was down 3% to 5% for outages and you start to think about what the cost of outages in the United States on an annualized basis, the 7-year total of $67 billion per year. If you can save double-digit percentage of that, there's real value added there for communities as well as any utility, which is most of them, where you've got some sort of performance-based rates based on your outage performance.
+So those are some pretty clear examples of how CapEx is being deferred or avoided completely, but also cases where you just get much better utilization out of the assets that you do have.
+On the second part of your question then when it comes to rate cases, I see that the market is constructive. Rate cases are absolutely being approved. The rate of return in those rate cases continues to be in the upper 9% if not 10% range on individual cases. Oftentimes, there is a discussion that happens in an appropriate way between the utility and their commission to really make sure that all avenues are being explored. But when the benefits are well constructed and clearly articulated rate cases are absolutely going through.
+It is just that normal push and pull that happens in the industry. And for all of us as consumers, that's much appreciated and absolutely part of the process that we count on.
+--------------------------------------------------------------------------------
+Chip Moore, Roth Capital Partners LLC - Analyst    [18]
+--------------------------------------------------------------------------------
+Excellent. And maybe for my follow-up, maybe more for Joan. Just the record profitability this quarter and close to 40% I think you said for the year, just when you look at structurally improved earnings, is and it sounds like you're not worried about some of the supply chain stuff or inflationary headwinds out there. Just how should we think about that earnings profile longer-term as we get some volume leverage?
+--------------------------------------------------------------------------------
+Joan Hooper, Itron Inc - Chief Financial Officer, Senior Vice President    [19]
+--------------------------------------------------------------------------------
+Yeah. I mean if you look at the original 2027 gross margin targets we had out there, we're essentially above that at the company level. Outcomes has a little bit further to grow in terms of the segment level, but networks is their devices as well in excess. So from the 2027 targets, we've added resiliency solutions, which is a software business at call it 70% to 75% margin. So structurally, we're in a good spot with a growing share of our revenue coming from higher margin parts of our business.
+We have done the work necessary to shrink the factory footprint and get better operating leverage on the capital side. So I feel pretty good about where we are. Of course, we are looking at commodity prices and those kinds of things, and we normally do strap buys if we need to kind of hedge it. But I think our supply chain organization has done a great job being very resilient in the face of a little bit of a chaotic market.
+--------------------------------------------------------------------------------
+Chip Moore, Roth Capital Partners LLC - Analyst    [20]
+--------------------------------------------------------------------------------
+Understood. Yes, we'll wait probably for an Investor Day. I think for an update on new goals.
+--------------------------------------------------------------------------------
+Operator,     [21]
+--------------------------------------------------------------------------------
+Jeff Osborne, Cowen & Co.
+--------------------------------------------------------------------------------
+Jeffrey Osborne, Cowen and Company LLC - Analyst    [22]
+--------------------------------------------------------------------------------
+I was wondering, Joan, you made reference to the 27 targets. Clearly, margins and cash flow have been very impressive. I was just curious, are you still comfortable with the revenue targets that you folks had put out there back in 2024, excluding the resiliency segment?
+--------------------------------------------------------------------------------
+Joan Hooper, Itron Inc - Chief Financial Officer, Senior Vice President    [23]
+--------------------------------------------------------------------------------
+Yeah. At this point, we're so close to 27%. What we plan to do is obviously provide guidance on the February call for and then shortly thereafter sometime next year, we'll give the longer-range target framework by segment. We're still in the midst of integrating resiliency solutions. So we didn't want to rush to put targets out with that kind of framework into a little further along with the integration.
+So at this point, stay tuned for '27 guidance in February.
+--------------------------------------------------------------------------------
+Jeffrey Osborne, Cowen and Company LLC - Analyst    [24]
+--------------------------------------------------------------------------------
+Makes sense. And then maybe for Tom, a two-part question. One is now that you have more Riva deployments under your belt, do you still feel comfortable with the sort of 9- to 12-month lag for starting shipments after regulatory approval, you seem constructive on sort of late this year and early next year, getting things across the finish line in the geographies you mentioned, but I just wasn't sure in terms of the revenue inflection from those regulatory approvals when that would happen.
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [25]
+--------------------------------------------------------------------------------
+Yeah. I start with the back half revenue. Substantial majority of our second half revenue is underpinned by deployments that are already under contract, so that this is not something that's a new booking required to get there. As Joan mentioned, we don't anticipate any sort of labor or supply constraints that really going to limit the deployment. You've got our third quarter outlook, and that's a return to growth year-over-year.
+So things move in moving well for us, and that's what we'll continue to work on in the months ahead.
+When it comes to the bookings pace, okay, bookings are always going to be a little bit lumpy and that's the nature of the business. But we feel good about the pipeline growth. Our win rates remain strong, the ability to start to move into that mid-market starting to happen. Those are all positive developments time from booking until you start to see revenue, yet mileage can vary customer to customer, but that sort of 9-month kind of number still makes sense. And I don't see any differences in the market that are starting to change that for the large deployments.
+--------------------------------------------------------------------------------
+Jeffrey Osborne, Cowen and Company LLC - Analyst    [26]
+--------------------------------------------------------------------------------
+Good to hear very quickly, just a gas comments. Does that include network infrastructure upgrades as well or the access points? Or is just this clearly devices using legacy AMI 1.0 access point.
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [27]
+--------------------------------------------------------------------------------
+No, no. Yes, it's both. It's both. But what customers are buying today is largely something that's, I'll call it future proof, even if they are using it in a limited capacity today, the ability to turn on higher levels of functionality is built in. So think of it as end points as well as network gear starting to happen depending on the topology that the customer selects.
+--------------------------------------------------------------------------------
+Operator,     [28]
+--------------------------------------------------------------------------------
+Martin Malloy, Johnson Rice.
+--------------------------------------------------------------------------------
+Marty Malloy, Johnson Rice - Analyst    [29]
+--------------------------------------------------------------------------------
+I wanted to ask about recent acquisitions, Urbint and Locusview that you have a few more months with them. If you can provide us with any update anecdotal evidence on early cross-selling to customers across Itron's platform integration, how that's going, confidence in the outlook and if tight field labor markets are having any sort of impact on the pipeline for growth there?
+--------------------------------------------------------------------------------
+Joan Hooper, Itron Inc - Chief Financial Officer, Senior Vice President    [30]
+--------------------------------------------------------------------------------
+Yeah, I can start. So back in the February call with our initial guidance, we did give some color on the new resiliency solutions segment. We talked about revenue in the $65 million to $70 million with gross margin approximately 70%. Those numbers are still good. That is still what we're tracking to.
+The integration is going as planned. Locusview is a little bit more larger company and a little bit more complicated in terms of the plumbing and the ERP system, et cetera, but that's planned to be all done by the end of the year. So I think we'll be fully integrated by early January. Maybe I'll ask Tom to address any kind of cross-selling.
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [31]
+--------------------------------------------------------------------------------
+Yes, I would say that the cross-selling activity has begun. No particular wins at this moment that I would call your attention to. That's not a anything unusual or strange it's ongoing now. Some of the new functionality, specifically on the digital construction management side that I think shows great promise is really the ability to integrate AI into the process where you can automatically pull in a lot of the compliance data that you need for various pieces of infrastructure as you're building out and really automating not only the construction process, but the compliance and necessary activities you need to really close out the project.
+So a lot of new functionality and growth, which is well appreciated from our customers. So I would very much agree with Joan's assessment, very much on track for what we set out for the year, even in the early days with cross-selling, just starting to get underway and are happy with the progress of the teams.
+--------------------------------------------------------------------------------
+Operator,     [32]
+--------------------------------------------------------------------------------
+Sean Milligan, Needham & Company.
+--------------------------------------------------------------------------------
+Sean Milligan, Needham & Company LLC - Equity Analyst    [33]
+--------------------------------------------------------------------------------
+Curious if you can talk about 4 12-month backlog next-month and then I think like previously, you've commented that maybe book-to-ship type or like, yes, book-to-ship has been creeping up within your business, like maybe kind of view of that over the next 12 months, how much we think that is of total shipments.
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [34]
+--------------------------------------------------------------------------------
+Sure. The 12-month backlog is up quarter-over-quarter, Joan can comment on the exact number. I don't know that I would focus in on the precise number too much as deployments will ebb and flow through the natural cycle within the quarter itself. But the trend being positive quarter-over-quarter as we continue to really see what's happening in the marketplace and customers are gaining confidence in their speed of deployment.
+When it comes to the book and ship business, I said for a couple of quarters now, we're starting to see more of that type of business. Certainly, it's always been a significant part of the devices business, but a higher percentage in networks today. And that really goes to 1 of the points that I was making during the prepared remarks, which is customers can really start to add capability and buy additional services, additional capabilities within a particular portion of their territory depending on how their needs change overall.
+So if you have a ZIP code within your territory, which has high EV penetration and you want to deploy EV detection and charging management capability, you can do that without a massive amount of forklift upgrade throughout the network. You can target where you need it.
+And that's what accounts for a bit more book and ship even in the networking space.
+So running at a higher percentage than what we normally would have seen. If you go back 3, 4 years, we go into the quarter with somewhere, call it, 80%, 85% of the shipments that are planned for the quarter in backlog, and the rest come through terms during the 12, 13 weeks to come.
+--------------------------------------------------------------------------------
+Operator,     [35]
+--------------------------------------------------------------------------------
+Scott Grahamwith Seaport Research Partners.
+--------------------------------------------------------------------------------
+Scott Graham, Seaport Research Partners - Analyst    [36]
+--------------------------------------------------------------------------------
+I wanted to this is the kind of the time of year, Tom, where you get a little bold and you give us maybe what the book-to-bill will be for the full year this year. Is that something that you're prepared to do?
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [37]
+--------------------------------------------------------------------------------
+We don't guide to book-to-bill. It's not something that's strictly within our hands, the regulatory cycle is what really is the last piece in the puzzle. And that's something that is really outside of our purview to talk about. But what I can tell you, it certainly is the infrastructure build-out that we're talking about is structural. The backlog is healthy at $4.4 billion.
+The bookings process being very disciplined. That backlog converts. It doesn't get canceled. Overall, the margin improvement you saw is structural. Pipelines are at a record level.
+Win rates are strong. So all of the setup is really good for what we have been looking for and we feel great about our market position.
+--------------------------------------------------------------------------------
+Scott Graham, Seaport Research Partners - Analyst    [38]
+--------------------------------------------------------------------------------
+Okay. On the bookings themselves, this is the first increase in, I think, four quarters and the quarter before, that 2Q of last year was up only 2%. So would you say that maybe the bookings sort of I know that there's no run rate per se, but that your bookings are now kind of more in tune with what you're doing as a company from a focusing on lower CapEx items not necessarily focusing on the large projects, which are all there and you book them, but they don't necessarily book today. So would you say you're kind of like over the hump on bookings and that the bookings going forward should be sort of more reflective of what sort of, I'll call it, like the the new Itron and your focus on away from the larger deployments? Is that a fair way to frame what bookings should look like going forward?
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [39]
+--------------------------------------------------------------------------------
+No, I really don't think it is. You're trying to draw a pattern where there just isn't one pay attention to backlog and not necessarily bookings quarter-to-quarter. Certainly, the large opportunities are out there. We certainly will continue to work very hard to get our fair more than our fair share of those pieces of the puzzle. We are heartened to see some of the mid-market starting to move towards the technology that we've invested hard to bring to market the idea of Platform as a Service really has unlocked that mid-market portion for us, and we're excited about what that will do.
+So both sides of the equation are contributing to what the business will be over the long term.
+--------------------------------------------------------------------------------
+Operator,     [40]
+--------------------------------------------------------------------------------
+Bobby Zolper, Raymond James.
+--------------------------------------------------------------------------------
+Bobby Zolper, Raymond James - Analyst    [41]
+--------------------------------------------------------------------------------
+Could you bridge your gross margins in Networked Solutions relative to a year ago?
+--------------------------------------------------------------------------------
+Joan Hooper, Itron Inc - Chief Financial Officer, Senior Vice President    [42]
+--------------------------------------------------------------------------------
+I think it's well, it's a combination of lots of things, as I think we alluded to on the call, it could be customer mix. So we had some roll-off late last year of some customers who had a lower margin profile. It could be the product mix that is sold, but it's really a combination of both. And then factory utilization. I mentioned as well.
+The factory has done a really nice job of lowering overhead costs and improving the fall-through on direct margin to gross margin, but it's really all three.
+--------------------------------------------------------------------------------
+Bobby Zolper, Raymond James - Analyst    [43]
+--------------------------------------------------------------------------------
+Okay. And what's your expectation for the monetization per application and outcomes?
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [44]
+--------------------------------------------------------------------------------
+Yes. I'm not sure I exactly follow the question. The certainly, we would expect the outcomes portion of the business continued to grow nicely. It's been double-digit year-over-year growth for the last, I don't know, three years probably on a quarter-by-quarter basis, we would look for that to continue the number of apps that we've licensed is getting close to 28 million to this point. That's up a little more than 15% year-over-year.
+ARR continues to grow. $417 million at the end of the quarter, that's up 21% year-over-year. So all in all, we feel good about the continued growth in that portion of our market it really is an area that we focused on for a number of years and really starting to bear fruit for us.
+--------------------------------------------------------------------------------
+Operator,     [45]
+--------------------------------------------------------------------------------
+There are no more questions in the queue. I will now turn the call back over to Mr. Tom Deitrich for any closing comments.
+--------------------------------------------------------------------------------
+Thomas Deitrich, Itron Inc - President, Chief Executive Officer, Director    [46]
+--------------------------------------------------------------------------------
+Very good. Thank you all for joining us today. We truly do appreciate it. The need that we serve is durable and our market is performing through the timing. So we look forward to updating you again next quarter.
+--------------------------------------------------------------------------------
+Operator,     [47]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for your participation, and you may now disconnect.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+THE LONDON STOCK EXCHANGE GROUP AND ITS AFFILIATES (COLLECTIVELY, "LSEG") RESERVES THE RIGHT TO MAKE CHANGES TO DOCUMENTS, CONTENT, OR OTHER INFORMATION ON THIS WEB SITE WITHOUT OBLIGATION TO NOTIFY ANY PERSON OF SUCH CHANGES. NO CONTENT MAY BE MODIFIED, REVERSE ENGINEERED, REPRODUCED, OR DISTRIBUTED IN ANY FORM BY ANY MEANS, OR STORED IN A DATABASE OR RETRIEVAL SYSTEM, WITHOUT THE PRIOR WRITTEN PERMISSION OF LSEG. THE CONTENT SHALL NOT BE USED FOR ANY UNLAWFUL OR UNAUTHORIZED PURPOSES. LSEG DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, TIMELINESS, OR AVAILABILITY OF THE CONTENT. LSEG IS NOT RESPONSIBLE FOR ANY ERRORS OR OMISSIONS, REGARDLESS OF THE CAUSE, FOR THE RESULTS OBTAINED FROM THE USE OF THE CONTENT. IN NO EVENT SHALL LSEG BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, COMPENSATORY, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES, COSTS, EXPENSES, LEGAL FEES, OR LOSSES (INCLUDING, WITHOUT LIMITATION, LOST INCOME OR LOST PROFITS AND OPPORTUNITY COSTS OR LOSSES CAUSED BY NEGLIGENCE) IN CONNECTION WITH ANY USE OF THE CONTENT EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+--------------------------------------------------------------------------------
+Copyright 2026 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------
